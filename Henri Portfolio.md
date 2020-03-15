@@ -19,3 +19,6 @@ Tällä hetkellä työskentelen Wihurin teknisessä kaupassa ilmastointi- ja lä
 ## Tulevaisuus
 Tämän hetkiseltä opiskelulta toivon oppivani uusia ja mielenkiintoisia ohjelmointiin liittyviä asioita, jotka auttavat minua tulevaisuudessa. Toivoisin myöhemmin olevani ammattilainen ohjelmistokehityksessä.
 
+![mies](https://user-images.githubusercontent.com/61405373/76706990-59087000-66f4-11ea-9ab6-aefd8288238b.png)
+
+
