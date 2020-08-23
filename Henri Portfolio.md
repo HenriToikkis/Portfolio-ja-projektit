@@ -1,7 +1,7 @@
 # *Portfolio*
 
 ## Tietoa minusta
-Olen Henri Vantaalta. Olen jo lapsena kasannut ensimmäiset tietokoneeni ja harrastanut tietotekniikkaa siitä lähtien. Olenkin jo useita vuosia ollut teknisenä tukena lähipiirilleni erilaisissa tietokoneiden, ohjelmistojen sekä puhelimien kanssa. Olen myös kasannut useita tietokoneita ystävilleni valitsemistani komponenteista heidän tarpeidensa mukaisesti. Vapaa-ajan muihin harrastuksiini kuuluu koirien kanssa ulkoilu ja maastopyöräily. 
+Olen Henri Vantaalta. Kasasin jo lapsena tietokoneita ja olen harrastanut tietotekniikkaa siitä lähtien. Olenkin jo useita vuosia ollut teknisenä tukena lähipiirilleni erilaisissa tietokoneiden, ohjelmistojen sekä puhelimien kanssa. Olen myös kasannut useita tietokoneita ystävilleni valitsemistani komponenteista heidän tarpeidensa mukaisesti. Vapaa-ajan muihin harrastuksiini kuuluu koirien kanssa ulkoilu ja maastopyöräily. 
 
  
 ## Työhistoria
@@ -16,14 +16,15 @@ Tällä hetkellä työskentelen Wihurin teknisessä kaupassa ilmastointi- ja lä
   
   ## Osaamiseni ja tulevia projekteja
   
-  - Unity + C#
-  - Python + sql tasklist
-  - Python ja pygame pelin teko
-  - Asiakasprojekteja Helsingin yliopistolle
-  - tulevia hajoitteita: Web sovellukset html + java
+  * Unity + C#
+  * Python + sql tasklist
+  * Python ja pygame pelin teko
+  * Asiakasprojekteja Helsingin yliopistolle
+  * tulevia harjoitteita: Web sovellukset html + java
   
-Linkki python ja pygame
-https://github.com/HenriToikkis/Portfolio/tree/master/Projektit/v%C3%A4ist%C3%A4%20ja%20juokse
+##Harjoituksiani
+pygame: https://github.com/HenriToikkis/Portfolio/tree/master/Projektit/v%C3%A4ist%C3%A4%20ja%20juokse
+Tasklist: https://github.com/HenriToikkis/Portfolio/tree/master/Tasklist
 
 
 
