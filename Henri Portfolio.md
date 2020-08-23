@@ -19,8 +19,8 @@ Tällä hetkellä työskentelen Wihurin teknisessä kaupassa ilmastointi- ja lä
   * Unity + C#
   * Python + sql tasklist
   * Python ja pygame pelin teko
-  * Asiakasprojekteja Helsingin yliopistolle
-  * tulevia harjoitteita: Web sovellukset html + java
+  * Tulevia asiakasprojekteja Helsingin yliopistolle
+  * Tulevia harjoitteita: Web sovellukset html + java
   
 ## Harjoituksiani
 
