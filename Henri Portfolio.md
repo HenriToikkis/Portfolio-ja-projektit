@@ -22,7 +22,7 @@ Tällä hetkellä työskentelen Wihurin teknisessä kaupassa ilmastointi- ja lä
   * Asiakasprojekteja Helsingin yliopistolle
   * tulevia harjoitteita: Web sovellukset html + java
   
-##Harjoituksiani
+## Harjoituksiani
 
 *  https://github.com/HenriToikkis/Portfolio/tree/master/Projektit/v%C3%A4ist%C3%A4%20ja%20juokse
 * https://github.com/HenriToikkis/Portfolio/tree/master/Tasklist
