@@ -3,6 +3,11 @@
 ## Tietoa minusta
 Olen Henri Vantaalta. Olen jo lapsena kasannut ensimmäiset tietokoneeni ja harrastanut tietotekniikkaa siitä lähtien. Olenkin jo useita vuosia ollut teknisenä tukena lähipiirilleni erilaisissa tietokoneiden, ohjelmistojen sekä puhelimien kanssa. Olen myös kasannut useita tietokoneita ystävilleni valitsemistani komponenteista heidän tarpeidensa mukaisesti. Vapaa-ajan muihin harrastuksiini kuuluu koirien kanssa ulkoilu ja maastopyöräily. 
  ****************************
+ 
+## Työhistoria
+ 
+Tällä hetkellä työskentelen Wihurin teknisessä kaupassa ilmastointi- ja lämmityslaitteiden parissa. Työtehtäviini kuuluu laitteiden kokoonpano, testaus ja vianmääritys. Edellisiä työpaikkojani on ollut mm. Uponor infra Oy jossa toimin koneistajana, Metsolla toimilaite kokoonpanijana sekä Fluid controllilla toimilaite huoltajana.
+
 
 
 ## Opiskelu ja osaamiseni
@@ -21,9 +26,6 @@ Ensimmäiseen peliini:
 https://github.com/HenriToikkis/Portfolio/tree/master/Projektit/v%C3%A4ist%C3%A4%20ja%20juokse
 *************************************
 
-## Työhistoria
-Tällä hetkellä työskentelen Wihurin teknisessä kaupassa ilmastointi- ja lämmityslaitteiden parissa. Työtehtäviini kuuluu laitteiden kokoonpano, testaus ja vianmääritys. Edellisiä työpaikkojani on ollut mm. Uponor infra Oy jossa toimin koneistajana, Metsolla toimilaite kokoonpanijana sekä Fluid controllilla toimilaite huoltajana.
-*********************************************
 
 
 ![mies](https://user-images.githubusercontent.com/61405373/76706990-59087000-66f4-11ea-9ab6-aefd8288238b.png)
