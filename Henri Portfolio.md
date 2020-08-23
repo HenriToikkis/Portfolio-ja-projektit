@@ -23,6 +23,7 @@ Tällä hetkellä työskentelen Wihurin teknisessä kaupassa ilmastointi- ja lä
   * tulevia harjoitteita: Web sovellukset html + java
   
 ##Harjoituksiani
+
 pygame: https://github.com/HenriToikkis/Portfolio/tree/master/Projektit/v%C3%A4ist%C3%A4%20ja%20juokse
 Tasklist: https://github.com/HenriToikkis/Portfolio/tree/master/Tasklist
 
