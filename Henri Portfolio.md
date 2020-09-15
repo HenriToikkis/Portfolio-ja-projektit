@@ -24,8 +24,17 @@ Tällä hetkellä työskentelen Wihurin teknisessä kaupassa ilmastointi- ja lä
   
 ## Harjoituksiani
 
+# Juoksemaaliin peli
+* Kaksinpeli jossa toinen yrittää estää toista pelaajaa juoksemasta maaliin jokaisesta onnistuneesta läpipääsystä saa pisteitä.
 *  https://github.com/HenriToikkis/Portfolio/tree/master/Projektit/v%C3%A4ist%C3%A4%20ja%20juokse
+
+# Tasklist
+* Ohjelmalla voi tallentaa, poistaa ja muokata tehtäviä sql databasesta.
 * https://github.com/HenriToikkis/Portfolio/tree/master/Projektit/Tasklist
+
+# Barcode lukija raspberryyn webcameralla
+* Ohjelma lukee barcodeja webcameralla
+*https://github.com/HenriToikkis/Portfolio-ja-projektit/tree/master/Projektit/Raspberry%20barcode%20scanner%20project
 
 
 
