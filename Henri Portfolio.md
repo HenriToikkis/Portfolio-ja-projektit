@@ -17,15 +17,16 @@ Tällä hetkellä työskentelen Wihurin teknisessä kaupassa ilmastointi- ja lä
   ## Osaamiseni ja tulevia projekteja
   
   * Unity + C#
-  * Python + sql tasklist
-  * Python ja pygame pelin teko
-  * Tulevia asiakasprojekteja Helsingin yliopistolle
+  * Python
+  * Helsingin yliopiston ja Luma keskuksen kanssa yhteistyössä käynnissä olevia ja tulevia projekteja: Quiz peli, säteilymittari ja kosteusmittari
+  * Osaamista SQL Tietokannoista
   * Tulevia harjoitteita: Web sovellukset html + java
   
-## Harjoituksiani
+  
+## Harjoituksia ja projekteja
 
 # Juoksemaaliin peli
-* Kaksinpeli jossa toinen yrittää estää toista pelaajaa juoksemasta maaliin jokaisesta onnistuneesta läpipääsystä saa pisteitä.
+* Kaksinpeli jossa toinen yrittää estää toista pelaajaa juoksemasta maaliin. Jokaisesta onnistuneesta läpipääsystä saa pisteitä.
 *  https://github.com/HenriToikkis/Portfolio/tree/master/Projektit/v%C3%A4ist%C3%A4%20ja%20juokse
 
 # Tasklist
