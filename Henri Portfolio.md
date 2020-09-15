@@ -34,7 +34,7 @@ Tällä hetkellä työskentelen Wihurin teknisessä kaupassa ilmastointi- ja lä
 
 # Barcode lukija raspberryyn webcameralla
 * Ohjelma lukee barcodeja webcameralla
-*https://github.com/HenriToikkis/Portfolio-ja-projektit/tree/master/Projektit/Raspberry%20barcode%20scanner%20project
+* https://github.com/HenriToikkis/Portfolio-ja-projektit/tree/master/Projektit/Raspberry%20barcode%20scanner%20project
 
 
 
