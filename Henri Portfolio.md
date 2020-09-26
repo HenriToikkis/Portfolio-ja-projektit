@@ -18,9 +18,15 @@ Tällä hetkellä työskentelen Wihurin teknisessä kaupassa ilmastointi- ja lä
   
   * Unity + C#
   * Python
+  * c++
   * Helsingin yliopiston ja Luma keskuksen kanssa yhteistyössä käynnissä olevia ja tulevia projekteja: Quiz peli, säteilymittari ja kosteusmittari
   * Osaamista SQL Tietokannoista
   * Tulevia harjoitteita: Web sovellukset html + java
+  * Windows käyttöympäristö
+  * Windows asennukset
+  * android käyttöjärjestelmät
+  * erilaiset vianmääritykset ohjelma sekä rautapuolella
+  * Windows opastus
   
   
 ## Harjoituksia ja projekteja
