@@ -26,7 +26,7 @@ Tällä hetkellä työskentelen Wihurin teknisessä kaupassa ilmastointi- ja lä
   * Windows asennukset
   * android käyttöjärjestelmät
   * erilaiset vianmääritykset ohjelma sekä rautapuolella
-  * Windows opastus
+  
   
   
 ## Harjoituksia ja projekteja
