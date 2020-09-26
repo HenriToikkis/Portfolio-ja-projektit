@@ -24,8 +24,8 @@ Tällä hetkellä työskentelen Wihurin teknisessä kaupassa ilmastointi- ja lä
   * Tulevia harjoitteita: Web sovellukset html + java
   * Windows käyttöympäristö
   * Windows asennukset
-  * android käyttöjärjestelmät
-  * erilaiset vianmääritykset ohjelma sekä rautapuolella
+  * Android käyttöjärjestelmät
+  * Erilaiset vianmääritykset ohjelma sekä rautapuolella
   
   
   
